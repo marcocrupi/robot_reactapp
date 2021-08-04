@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robot_reactapp/static/css/main.ae31a0ae.chunk.css",
+    "main.js": "/robot_reactapp/static/js/main.dc65bb66.chunk.js",
+    "main.js.map": "/robot_reactapp/static/js/main.dc65bb66.chunk.js.map",
+    "runtime-main.js": "/robot_reactapp/static/js/runtime-main.4b6bcb94.js",
+    "runtime-main.js.map": "/robot_reactapp/static/js/runtime-main.4b6bcb94.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robot_reactapp/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0bcb7219.chunk.js": "/robot_reactapp/static/js/2.0bcb7219.chunk.js",
+    "static/js/2.0bcb7219.chunk.js.map": "/robot_reactapp/static/js/2.0bcb7219.chunk.js.map",
+    "static/js/3.bb4c804d.chunk.js": "/robot_reactapp/static/js/3.bb4c804d.chunk.js",
+    "static/js/3.bb4c804d.chunk.js.map": "/robot_reactapp/static/js/3.bb4c804d.chunk.js.map",
+    "index.html": "/robot_reactapp/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robot_reactapp/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.ae31a0ae.chunk.css.map": "/robot_reactapp/static/css/main.ae31a0ae.chunk.css.map",
+    "static/js/2.0bcb7219.chunk.js.LICENSE.txt": "/robot_reactapp/static/js/2.0bcb7219.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robot_reactapp/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6bcb94.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0bcb7219.chunk.js",
+    "static/css/main.ae31a0ae.chunk.css",
+    "static/js/main.dc65bb66.chunk.js"
+  ]
+}
